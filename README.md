@@ -29,6 +29,8 @@ apt
 ```
 
 If APT is installed, a list of available commands and usage information will be displayed.
+<img width="1470" height="956" alt="EnsureAPT" src="https://github.com/user-attachments/assets/bc03f1a8-6df3-4a16-80ce-e55d2d1ebd8d" />
+
 
 ---
 
@@ -41,8 +43,8 @@ sudo apt install suricata
 ```
 
 * Enter your password when prompted
-* Confirm the installation by typing `Y` and pressing Enter
-
+Confirm the installation by typing `Y` and pressing Enter
+* <img width="1470" height="956" alt="Task2 InUnSuricata" src="https://github.com/user-attachments/assets/e4b22d4c-4399-4a91-abef-55cf76054cdc" />
 ---
 
 ### 3. Verify Suricata Installation
@@ -54,6 +56,8 @@ suricata
 ```
 
 If installed successfully, Suricata’s usage or help output will appear.
+<img width="1470" height="956" alt="InSuricata" src="https://github.com/user-attachments/assets/baf2351d-de30-4e2a-8d47-fd01517c843d" />
+
 
 ---
 
@@ -75,6 +79,8 @@ Check that Suricata has been removed.
 
 ```bash
 suricata
+<img width="662" height="442" alt="Verifyuninstall" src="https://github.com/user-attachments/assets/697ad68f-ec32-4413-a785-032cfe9065b8" />
+
 ```
 
 You should receive a message indicating that the command is not found or no such file exists.
@@ -87,7 +93,8 @@ Install TCPdump, a command-line packet analyzer.
 
 ```bash
 sudo apt install tcpdump
-```
+```<img width="664" height="428" alt="Installtcpdump" src="https://github.com/user-attachments/assets/34b917d0-840c-494f-8fac-5149ff442a97" />
+
 
 ---
 
@@ -97,7 +104,8 @@ Display a list of all installed packages on the system.
 
 ```bash
 apt list --installed
-```
+```<img width="659" height="430" alt="APTlist" src="https://github.com/user-attachments/assets/7f8f029e-07f4-4373-a205-695ccc64e8dc" />
+
 
 This command helps verify installed software and track system packages.
 
@@ -109,7 +117,8 @@ Reinstall Suricata on the system.
 
 ```bash
 sudo apt install suricata
-```
+```<img width="662" height="442" alt="Reinstall" src="https://github.com/user-attachments/assets/f07c2303-16ba-42ab-b5b6-48254becf288" />
+
 
 ---
 
@@ -119,7 +128,8 @@ Confirm that Suricata appears in the installed package list.
 
 ```bash
 apt list --installed
-```
+```<img width="726" height="413" alt="Done" src="https://github.com/user-attachments/assets/42ddeaeb-0a0c-456b-abaa-7f0be5aa6b99" />
+
 
 ---
 
