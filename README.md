@@ -125,7 +125,10 @@ Reinstall Suricata on the system.
 ```bash
 sudo apt install suricata
 ```
-<img width="1470" height="956" alt="Rein" src="https://github.com/user-attachments/assets/6546a80b-974b-4563-b7d2-9f1ce2e83e28" />
+
+
+<img width="1470" height="956" alt="Rein" src="https://github.com/user-attachments/assets/c03d7402-4a16-4a91-903a-e95be26e28b3" />
+
 
 
 ---
