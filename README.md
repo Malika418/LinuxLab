@@ -41,10 +41,11 @@ Install Suricata, an open-source network threat detection engine.
 ```bash
 sudo apt install suricata
 ```
+<img width="1470" height="956" alt="InSuricata" src="https://github.com/user-attachments/assets/f9b9d8cc-b69d-43f7-a3b4-d33d6cdcd24a" />
 
 * Enter your password when prompted
 Confirm the installation by typing `Y` and pressing Enter
-* <img width="1470" height="956" alt="Task2 InUnSuricata" src="https://github.com/user-attachments/assets/e4b22d4c-4399-4a91-abef-55cf76054cdc" />
+
 ---
 
 ### 3. Verify Suricata Installation
@@ -56,6 +57,7 @@ suricata
 ```
 
 If installed successfully, Suricata’s usage or help output will appear.
+
 <img width="1470" height="956" alt="InSuricata" src="https://github.com/user-attachments/assets/baf2351d-de30-4e2a-8d47-fd01517c843d" />
 
 
@@ -79,11 +81,11 @@ Check that Suricata has been removed.
 
 ```bash
 suricata
-<img width="662" height="442" alt="Verifyuninstall" src="https://github.com/user-attachments/assets/697ad68f-ec32-4413-a785-032cfe9065b8" />
 
 ```
 
 You should receive a message indicating that the command is not found or no such file exists.
+<img width="1470" height="956" alt="Suricata" src="https://github.com/user-attachments/assets/e5319482-3254-416c-a3a7-0761f1040c6f" />
 
 ---
 
@@ -93,7 +95,8 @@ Install TCPdump, a command-line packet analyzer.
 
 ```bash
 sudo apt install tcpdump
-```<img width="664" height="428" alt="Installtcpdump" src="https://github.com/user-attachments/assets/34b917d0-840c-494f-8fac-5149ff442a97" />
+```
+<img width="664" height="428" alt="Installtcpdump" src="https://github.com/user-attachments/assets/bb1f7482-55f9-4631-8188-aaca59f0f8e4" />
 
 
 ---
@@ -104,7 +107,10 @@ Display a list of all installed packages on the system.
 
 ```bash
 apt list --installed
-```<img width="659" height="430" alt="APTlist" src="https://github.com/user-attachments/assets/7f8f029e-07f4-4373-a205-695ccc64e8dc" />
+```
+
+<img width="659" height="430" alt="APTlist" src="https://github.com/user-attachments/assets/ec80413f-979f-4164-b1c6-f0ea11ab1d29" />
+
 
 
 This command helps verify installed software and track system packages.
@@ -117,7 +123,9 @@ Reinstall Suricata on the system.
 
 ```bash
 sudo apt install suricata
-```<img width="662" height="442" alt="Reinstall" src="https://github.com/user-attachments/assets/f07c2303-16ba-42ab-b5b6-48254becf288" />
+```
+
+<img width="662" height="442" alt="Install" src="https://github.com/user-attachments/assets/e9654eff-6cfb-41b6-9180-3a68c69eb4c5" />
 
 
 ---
@@ -128,7 +136,9 @@ Confirm that Suricata appears in the installed package list.
 
 ```bash
 apt list --installed
-```<img width="726" height="413" alt="Done" src="https://github.com/user-attachments/assets/42ddeaeb-0a0c-456b-abaa-7f0be5aa6b99" />
+```
+
+<img width="726" height="413" alt="Done" src="https://github.com/user-attachments/assets/ba12368f-8729-426e-867f-ec8785765405" />
 
 
 ---
