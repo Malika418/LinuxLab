@@ -72,6 +72,7 @@ sudo apt remove suricata
 ```
 
 * Confirm the removal when prompted
+<img width="1470" height="956" alt="Removesuri" src="https://github.com/user-attachments/assets/f07bd101-bf92-4d97-a8e8-2a5d98c17a54" />
 
 ---
 
